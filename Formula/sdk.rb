@@ -1,4 +1,4 @@
-class Capuchin < Formula
+class Sdk < Formula
   desc "Durable AI agents — one binary runs the dev stack and the agent runtime"
   homepage "https://capuchin.dev"
   version "0.2.0"
